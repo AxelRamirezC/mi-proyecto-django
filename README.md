@@ -23,3 +23,38 @@ Proyecto web desarrollado con Django como parte de la tarea final de Topicos. In
 \`\`\`bash
 git clone https://github.com/AxelRamirezC/mi-proyecto-django.git
 cd mi-proyecto-django
+\`\`\`
+
+2. **Crear y activar entorno virtual**
+\`\`\`bash
+# Windows
+python -m venv venv
+venv\Scripts\activate
+\`\`\`
+
+3. **Instalar dependencias**
+\`\`\`bash
+pip install -r requirements.txt
+\`\`\`
+
+4. **Ejecutar migraciones**
+\`\`\`bash
+python manage.py migrate
+\`\`\`
+
+5. **Ejecutar servidor**
+\`\`\`bash
+python manage.py runserver
+\`\`\`
+
+6. **Abrir en navegador**
+\`\`\`
+http://127.0.0.1:8000
+\`\`\`
+
+## 👤 Autor
+Axel Hadit Ramírez Coronel - L23270069@tuxtla.tecnm.mx
+
+## 📄 Licencia
+Proyecto educativo para el Tecnológico Nacional de México Campus Tuxtla Gutiérrez
+"@ | Out-File -FilePath "README.md" -Encoding UTF8
