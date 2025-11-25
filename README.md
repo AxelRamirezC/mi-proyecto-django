@@ -23,7 +23,7 @@ Proyecto web desarrollado con Django como parte de la tarea final de Topicos. In
 ```bash
 git clone https://github.com/AxelRamirezC/mi-proyecto-django.git
 cd mi-proyecto-django
-
+\`\`\`
     Crear y activar entorno virtual
 
 bash
