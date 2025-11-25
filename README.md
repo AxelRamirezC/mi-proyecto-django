@@ -56,5 +56,5 @@ http://127.0.0.1:8000
 Axel Hadit Ramírez Coronel - L23270069@tuxtla.tecnm.mx
 
 ## 📄 Licencia
-Proyecto educativo para el Tecnológico Nacional de México Campus Tuxtla Gutierrez
+Proyecto educativo para el Tecnológico Nacional de México Campus Tuxtla Gutiérrez
 "@ | Out-File -FilePath "README.md" -Encoding UTF8
