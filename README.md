@@ -20,46 +20,41 @@ Proyecto web desarrollado con Django como parte de la tarea final de Topicos. In
 ### Pasos de instalación
 
 1. **Clonar el repositorio**
-```bash
+\`\`\`bash
 git clone https://github.com/AxelRamirezC/mi-proyecto-django.git
 cd mi-proyecto-django
-```
-    Crear y activar entorno virtual
+\`\`\`
 
-bash
-
+2. **Crear y activar entorno virtual**
+\`\`\`bash
 # Windows
 python -m venv venv
 venv\Scripts\activate
+\`\`\`
 
-    Instalar dependencias
-
-bash
-
+3. **Instalar dependencias**
+\`\`\`bash
 pip install -r requirements.txt
+\`\`\`
 
-    Ejecutar migraciones
-
-bash
-
+4. **Ejecutar migraciones**
+\`\`\`bash
 python manage.py migrate
+\`\`\`
 
-    Ejecutar servidor
-
-bash
-
+5. **Ejecutar servidor**
+\`\`\`bash
 python manage.py runserver
+\`\`\`
 
-    Abrir en navegador
-
-text
-
+6. **Abrir en navegador**
+\`\`\`
 http://127.0.0.1:8000
+\`\`\`
 
-👤 Autor
-
+## 👤 Autor
 Axel Hadit Ramírez Coronel - L23270069@tuxtla.tecnm.mx
-📄 Licencia
 
+## 📄 Licencia
 Proyecto educativo para el Tecnológico Nacional de México Campus Tuxtla Gutiérrez
 "@ | Out-File -FilePath "README.md" -Encoding UTF8
