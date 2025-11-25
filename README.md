@@ -20,37 +20,37 @@ Proyecto web desarrollado con Django como parte de la tarea final de Topicos. In
 ### Pasos de instalación
 
 1. **Clonar el repositorio**
-\`\`\`bash
+```bash
 git clone https://github.com/AxelRamirezC/mi-proyecto-django.git
 cd mi-proyecto-django
-\`\`\`
+```
 
 2. **Crear y activar entorno virtual**
-\`\`\`bash
+```bash
 # Windows
 python -m venv venv
 venv\Scripts\activate
-\`\`\`
+```
 
 3. **Instalar dependencias**
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 4. **Ejecutar migraciones**
-\`\`\`bash
+```bash
 python manage.py migrate
-\`\`\`
+```
 
 5. **Ejecutar servidor**
-\`\`\`bash
+```bash
 python manage.py runserver
-\`\`\`
+```
 
 6. **Abrir en navegador**
-\`\`\`
+```
 http://127.0.0.1:8000
-\`\`\`
+```
 
 ## 👤 Autor
 Axel Hadit Ramírez Coronel - L23270069@tuxtla.tecnm.mx
