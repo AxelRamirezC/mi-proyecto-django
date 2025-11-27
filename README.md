@@ -1,16 +1,16 @@
-# Proyecto Django
+# Mi Proyecto Django
 
-## Descripción
-Proyecto web desarrollado con Django como parte de la tarea final de Topicos. Incluye página de inicio y 'Acerca de' con diseño Tailwind CSS.
+## 📋 Descripción
+Proyecto web desarrollado con Django como parte de la tarea final de Topicos. Incluye páginas de inicio y 'Acerca de' con diseño moderno usando Tailwind CSS.
 
-## Características
+## 🚀 Características
 - Framework: Django
 - Estilos: Tailwind CSS
-- Arquitectura por componentes
-- Sistema de plantillas reutilizables
-- Interfaz adaptable
+- Estructura modular
+- Templates con herencia
+- Diseño responsivo
 
-## Instalación
+## 🛠️ Instalación
 
 ### Prerrequisitos
 - Python 3.8+
@@ -51,5 +51,5 @@ python manage.py runserver
 http://127.0.0.1:8000
 ```
 
-## Autor
-Angel Fabian Vázquez Ramirez
+## 👤 Autor
+Axel Hadit Ramírez Coronel - L23270069@tuxtla.tecnm.mx
